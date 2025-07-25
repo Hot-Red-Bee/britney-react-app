@@ -39,7 +39,7 @@ const About = () => {
        <div className="w-full md:w-1/3 flex justify-center">
   <div className="glow-spin-once p-1 rounded-xl bg-gradient-to-tr from-purple-800 via-purple-500 to-pink-500">
     <img
-      src="/edit.jpg"
+      src="/editnew.jpg"
       alt="Britney"
       className="rounded-xl w-64 h-64 object-cover"
     />

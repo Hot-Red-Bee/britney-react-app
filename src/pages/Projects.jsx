@@ -39,7 +39,7 @@ const projects = [
     live: "https://portfolio-project-ochre-nine.vercel.app/",
   },
   {
-    title: "TableFix (WIP)",
+    title: "TableFix",
     stack: "React, TailwindCSS (Backend ongoing)",
     description: "A modern table-editing UI built with React. Backend functionality still in progress.",
     github: "https://github.com/Hot-Red-Bee",
